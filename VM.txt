@@ -8,3 +8,5 @@ vm -
 6. user name 
 7 pwd
 
+8 submit
+
