@@ -1,3 +1,5 @@
 vm -
 1 create a new file
 2. add the details
+3. location
+4. region
