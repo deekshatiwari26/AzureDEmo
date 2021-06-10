@@ -3,3 +3,8 @@ vm -
 2. add the details
 3. location
 4. region
+
+
+6. user name 
+7 pwd
+
